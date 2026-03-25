@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "MONTAGEM HIKARI (Slowed)",
+  "base_artist": "BellyJay",
+  "createdAt": "2026-03-25T11:42:38.851844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONTAGEM HIKARI",
+      "artist": "BellyJay",
+      "has_synced": false,
+      "path": "select/01_MONTAGEM_HIKARI_BellyJay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONTAGEM HIKARI",
+      "artist": "BellyJay",
+      "has_synced": false,
+      "path": "select/pl_01_MONTAGEM_HIKARI_BellyJay.txt"
+    }
+  ]
+}
